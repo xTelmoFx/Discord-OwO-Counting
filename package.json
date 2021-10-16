@@ -1,0 +1,35 @@
+{
+  "name": "discord-owo-counting",
+  "version": "1.0.0-beta",
+  "description": "A simple discord counting bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "engines": {
+    "node": ">=v16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinstr/discord-owo-counting.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "discord-js-bot",
+    "discord-owo",
+    "discord-owo-counting",
+    "discord-game",
+    "discord-counting"
+  ],
+  "author": "Devin#3583",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/devinstr/discord-owo-counting/issues"
+  },
+  "homepage": "https://github.com/devinstr/discord-owo-counting#readme"
+}

@@ -1,0 +1,9 @@
+{
+    "owoprefix": "w",
+    "reminders": true,
+    "message": {
+        "owo_uwu": "**👻 | {user.mentions}**, `owo/uwu` cooldowns has passed!",
+        "hunt_battle": "**👻 | {user.mentions}**, `hunt/battle` cooldowns has passed!",
+        "pray_curse": "**👻 | {user.mentions}**, `pray/curse` cooldowns has passed!"
+    }
+}
